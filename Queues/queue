@@ -1,0 +1,11 @@
+data:
+    1.space for storing the elements.
+    2.Front:- for deletion
+    3.Rear:- for insertion
+operations:
+    1. enqueue(x):-for insertion
+    2. dequeue():- for deletion.
+    3. isempty()
+    4. isfull()
+    5. first()
+    6. last()

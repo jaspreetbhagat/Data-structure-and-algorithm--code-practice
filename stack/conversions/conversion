@@ -1,0 +1,11 @@
+1. infix : operand operator operand
+        e.g:-  a+b
+2. postfix: operator operand operand
+        e.g:- +ab
+3. postfix: operand operand operator
+        e.g:- ab+
+     
+     
+// infix to postfix
+infix: 8+3*(9-6)/2^2+6/2
+postfix: 8(3(96-)*)2^2/+62/+
